@@ -25,7 +25,7 @@
 </h3>
 
 <div align="center">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas00000&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas00000&show_icons=true&theme=dark&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   <img width="485em" src="https://streak-stats.demolab.com?user=nicolas00000&theme=radical&hide_border=true" />
 <br />
 </div>
